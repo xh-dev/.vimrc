@@ -1,0 +1,10 @@
+" http://wiki.csie.ncku.edu.tw/vim/vimrc
+:set nu
+:set ai
+:set softtabstop=2
+:set tabstop=2
+:set expandtab
+:set shiftwidth=2
+:set ruler
+:set incsearch
+:set list
