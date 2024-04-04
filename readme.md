@@ -1,0 +1,4 @@
+install
+```shell
+./setup.sh
+```
