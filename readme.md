@@ -1,4 +1,4 @@
 install
 ```shell
-./setup.sh
+source $(curl https://raw.githubusercontent.com/xh-dev/my-vimrc/master/setup.sh)
 ```

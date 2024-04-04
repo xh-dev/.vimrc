@@ -1,5 +1,3 @@
-#!/bin/bash
-
 # This script no need to be aware of the basePath
 #basePath=$(dirname $0)
 
