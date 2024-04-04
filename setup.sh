@@ -2,5 +2,6 @@
 
 basePath=$(dirname $0)
 
-rm ~/.vimrc
-cp $basePath/.vimrc ~/.vimrc
+rm -f ~/.vimrc
+git clone git@github.com:xh-dev/my-vimrc.git
+cp $basePath/my-vimrc/.vimrc ~/.vimrc
