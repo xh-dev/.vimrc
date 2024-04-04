@@ -1,3 +1,4 @@
+# script to update .vimrc
 echo "remove existing .vimrc"
 rm -f ~/.vimrc
 
