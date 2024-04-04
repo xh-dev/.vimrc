@@ -1,4 +1,5 @@
 # script to update .vimrc
+# assume git is already installed
 echo "remove existing .vimrc"
 rm -f ~/.vimrc
 
